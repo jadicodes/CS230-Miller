@@ -1,0 +1,14 @@
+# Jadi Miller's CS230 Portfolio
+Ball State's CS230: Exploration of computer organization and architecture. Topics include: computers’ functional components and their characteristics, performance, and interactions; instruction set architectures; and system architecture.
+| Activity Name | Name & Link | Description |
+---------------------|-------|----------|
+| C Basics | [Backwards Message](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/backwards_message.c) | A program that gets a message from the user and then prints it out backwards. For example, if the user enters the text: Now, the program outputs: woN |
+| C Basics | [Random Dice Roll](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/dice_roll.c) | A program that simulates dice rolling. It starts by outputing a random number between 1 and 6, then asks if the user wants to roll again by inputting the letter y. Any other input should terminate the program. |
+| C Basics | [Hangman](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/hangman.c) | A basic hangman game. There are a limited number of times the user can give a wrong answer.|
+| C Basics | [Name and Length of Name](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/name_and_length_of_name.c) | A program that asks the user their name and outputs a welcoming message including his name and the number of letters in his name.|
+| C Basics | [Random Food Generator](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/random_food.c)| A program with an array of strings of size 5. Each index of the array holds the name of a different food. Every time the program is executed, a random food from the array must be output. |
+| C Basics | [Random Number Generator](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/random_numbers.c) | A program that generates and displays n random numbers between 0 and 1, where n is a number input by the user. |
+| C Basics | [Separate Names](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/separate_names.c) | A program that allows the user to input his or her first and last name together and outputs them separately. |
+| C Basics | [Sorting 3 Integers](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/sort_3_integers.c) | A program in which the main function prompts for and reads three integers, and then calls a sort function passing the three integers. The sort function displays the three values in ascending order. |
+| C Basics | [Sum of 2 Integers](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/sum_of_2_numbers.c) | A program that asks the user two numbers and outputs a message with their sum. |
+| C Basics | [Who is Older?](https://github.com/jadimiller/CS230-Miller/blob/main/c_basics/who_is_older.c) | A program that lets the user input the name and age of two persons. The program should output the name of the oldest. |
